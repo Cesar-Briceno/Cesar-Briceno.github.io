@@ -1,4 +1,8 @@
 name: "my-website"
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
 
 navbar:
 
@@ -20,7 +24,4 @@ navbar:
       href: Habilidades.html
 
       
-output:
-  html_document:
-    theme: flatly
-    highlight: textmate
+
