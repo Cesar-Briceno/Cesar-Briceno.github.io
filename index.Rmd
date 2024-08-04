@@ -23,7 +23,7 @@ body {
 
 |   Celular   |                                     Email                                      |      Domicilio       |                             RRSS                             |
 |:---------------:|:---------------:|:--------------------:|:---------------:|
-| 11 27557211 | [cesar.joyce.briceno\@gmail.com](mailto:cesar.joyce.briceno@gmail.com){.email} | CABA - Villa Urquiza | @csar.joyce / [César Briceño LinkedIn](www.linkedin.com/in/césar-briceño) |
+| 11 27557211 | [cesar.joyce.briceno\@gmail.com](mailto:cesar.joyce.briceno@gmail.com){.email} | CABA - Villa Urquiza | @csar.joyce / [César Briceño LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-brice%C3%B1o/) |
 
 
 <footer style="text-align: center;">
