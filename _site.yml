@@ -1,0 +1,27 @@
+name: "my-website"
+output_: "."
+
+navbar:
+
+  title: "• CURRÍCULUM •"
+  left:
+    - text: "Carta de Presentación"
+      href: cartadepresentacion.html
+      
+    - text: "Experiencia Laboral"
+      href: Experiencialaboral.html
+      
+    - text: "Emprendimientos"
+      href: Emprendimientos.html
+      
+    - text: "Educación"
+      href: Educación.html
+      
+    - text: "Habilidades"
+      href: Habilidades.html
+
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate

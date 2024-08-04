@@ -1,0 +1,33 @@
+---
+title: 
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+---
+
+<style>
+body {
+  text-align: justify;
+}
+</style>
+
+
+![](IMÁGENES/Perfil.png)
+
+#### Me considero un persona colaborativa con la premisa de generar un impacto positivo en los distintos entornos que participo. Amante de los deportes, la música, lectura y generación de ideas. Profesionalmente, soy Ingeniero de Petróleo egresado de la Universidad Central de Venezuela con experiencia en el sector de los hidrocarburos y en otros sectores fuera de la industria energética. Desde mis días en el campo como perforador direccional de pozos petroleros en la Faja Petrolífera del Orinoco en Venezuela, pasando por el ámbito corporativo como ingeniero analista y gestor de proyectos internos en el Viceministerio de Gas, hasta la actualidad, desempeñando funciones como inspector de calidad en la construcción de la Planta Compresora de Gas Mercedes en la Provincia de Buenos Aires, he tenido la capacidad para adaptarme a diferentes roles y contextos, así como aprender nuevas habilidades para sacar lo mejor de cada situación y apoyarme de las lecciones aprendidas en los constantes desafíos que se presentan. 
+
+
+#### Así mismo, en el Ministerio de Industria y Comercio de Venezuela participé como Ingeniero Analista  en la Dirección de Seguimiento y Control de Inspecciones de Sustancias Químicas Controladas del RESQUIMC. En jornadas extras  tuve funciones comerciales en una PyME de mi tío en el rubro de servicios de equipos de audio y vídeo profesional. Formar parte de equipos de trabajos multidisciplinarios, multiculturales e internacionales siempre ha sido de gran interes para mi, ya que comprendo la importancia que posee en el fomento de la innovación, la creatividad, el aprendizaje continuo, y me brinda la oportunidad de estar en contacto con diversas perspectivas. 
+
+
+#### Además de mi experiencia práctica, mi compromiso con el aprendizaje continuo se refleja en mi historial académico, que incluye estudios en áreas como organización empresarial, energía renovable, comunicación y emprendimiento. Mi certificación en Locución, capacitación en China y actuales estudios en Argentina como lo son las diplomaturas en Gestión de Tecnologías para el Desarrollo de Hidrocarburos y la correspondiente a Procesos y Economía del Hidrógeno es un ejemplo de mi dedicación a mantenerme actualizado y preparado para los desafíos del futuro. 
+
+#### Una de mis principales motivaciones dentro de la industria petrolera es participar en proyectos para el impulso de la innovación y la competitividad mediante la integración de tecnologías avanzadas, la transferencia de conocimientos y la gestión efectiva de proyectos tecnológicos.  
+
+
+![](IMÁGENES/Banner Linkedin.png)
+
+<footer style="text-align: center;">
+<p style="font-size: x-small;"> 2024 • Currículo web desarrollado por Ing. César Briceño  • RMarkdown </p>
+</footer>
