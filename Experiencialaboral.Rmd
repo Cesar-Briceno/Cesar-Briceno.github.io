@@ -16,29 +16,28 @@ body {
 </style>
 
 
-### **Inspector de Calidad**       
+### **Inspector General de Obra | Inspector de Calidad Oil & Gas**       
 #### **Bureau Veritas**  
 ##### <img src="IMÁGENES/argentina.png" width="22" height="22"> Buenos Aires
-##### Jul. 2023 - Dic. 2023 | Abr. 2024 - Presente
+##### 2023 - 2025
 
-- Gestiono junto al equipo de inspectores de Bureau Veritas y Energía Argentina actividades de control en lasfases constructivas de la Planta Compresora de Gas Mercedes. 
+- Inspeccioné en campo las fases constructivas de la Planta Compresora de Gas Mercedes, asegurando el cumplimiento de las actividades con base a planos, procedimientos y especificaciones técnicas lo que contribuyó a mantener la calidad y la seguridad.
 
-- Realizo inspección en campo, revisión documental y organizo los registros que se generan con base al Plan de Inspección y Ensayo en las distintas disciplinas.
+- Desarrollé un sistema de gestión en Excel para el seguimiento y control de registros de liberación y conformidad en los hitos de construcción de la planta, asegurando la disponibilidad y trazabilidad documental en las distintas disciplinas. 
 
-- Genero reportes al jefe de inspección sobre el progreso de las inspecciones y fases de la obra.
+- Efectué vuelos con dron DJI Mini 2 para relevamiento fotográfico y seguimiento de avance del proyecto. Implementé esta metodología como una nueva herramienta para optimizar el seguimiento y control del proyecto.
 
+- Realicé inspecciones en múltiples talleres industriales para verificar avances en elementos constructivos críticos, para asegurar la conformidad de las especificaciones técnicas antes de su instalación en campo.
+
+- Gestioné documentación técnica y administrativa, brindé soporte logístico para el equipo de inspección y asistí en la elaboración de informes de gestión de la jefatura de inspección cumpliendo los plazos establecidos. 
 
 ### **Administrativo de Obra Oil & Gas**                          
 #### **Bureau Veritas** 
 ##### <img src="IMÁGENES/argentina.png" width="22" height="22"> Buenos Aires
 ##### Nov. 2022 - Jul. 2023 
 
-- Gestioné para sus firmas y archivo los documentos de comunicaciones, minutas de reuniones, reportes de
-inspección. 
+- Gestioné documentación técnica y administrativa, brindé soporte logístico para el equipo de inspección y asistí en la elaboración de informes de gestión de la jefatura de inspección cumpliendo los plazos establecidos.  
 
-- Coordiné actividades administrativas para el apoyo logístico del equipo. 
-
-- Asistí al Jefe de Inspección en la generación de informes requeridos.
 
 
 ### **Ingeniero Analista | Gestor de Proyectos**                  
@@ -47,11 +46,20 @@ inspección.
 ##### 2015 - 2022
 
 
-- Realicé el seguimiento técnico - administrativo de los Planes de Trabajo Anuales de PDVSA y empresas transnacionales adjudicadas con licencias para el desarrollo de lotes de gas natural no asociado.
+- Gestioné proyectos corporativos del Viceministerio mediante metodología waterfall, liderando la elaboración de manuales, programas de estandarización de procesos administrativos que brindaron optimización en la gestión institucional.
 
-- Inspeccioné instalaciones de producción y manejo de gas natural para el relevamiento de informes sobre avances de proyectos y para la problemática de la quema y venteo de gas natural asociado en la Faja Petrolífera del Orinoco (FPO). 
+- Coordiné aproximadamente 20 profesionales de la Dirección General. Asignando y supervisando las actividades de los equipos, cronogramas y facilitando reuniones, logrando un 95% de cumplimiento en los objetivos anuales establecidos.
 
-- Gestioné proyectos internos y actividades del equipo de la Dirección General de Producción de Gas Natural del Viceministerio de Gas, para la generación de propuestas y presentaciones ejecutivas para el Directorio, reuniones de trabajo con empresas y organizaciones internacionales.
+- Actué como enlace con entidades del sector, incluyendo la organización del Foro de Países Exportadores de Gas. Coordiné reuniones de trabajo con las partes interesadas (stakeholders) del ámbito local e internacional contribuyendo al éxito de varias iniciativas.
+
+- Evalué y realicé el seguimiento técnico-administrativo de los Planes de Producción y Trabajo Anual de cuatro empresas licenciatarias de gas natural, asegurando el cumplimiento de los planes, normativas y ejecución de los proyectos establecidos.
+
+- Realicé visitas técnicas de inspección a más de 30 instalaciones de superficie a nivel nacional para la verificación de condiciones operacionales y volumetrías de gas, avances de construcciones de infraestructuras y actividades aprobadas en los Planes de Trabajo.
+
+- Desarrollé y presenté informes ejecutivos y cuadros de mando (dashboards) con indicadores clave de desempeño (KPIs) para la alta gerencia, facilitando la toma de decisiones estratégicas y el seguimiento de objetivos.
+
+- Representé a la institución en el Biogas Institute of Ministry of Agriculture and Rural Affairs de China (Chengdu), obteniendo el segundo lugar en la presentación del Country Report entre 42 países participante.
+
 
 
 ### **Ingeniero de Campo | Perforación**                           
@@ -59,23 +67,15 @@ inspección.
 ##### <img src="IMÁGENES/venezuela.png" width="22" height="22"> Maturín & Anzoátegui
 ##### 2012 - 2014
 
-- Ejecuté planes de perforación como Perforador Direccional de pozos exploratorios y desarrollo en la FPO.
+- Ejecuté y supervisé la perforación direccional de pozos horizontales en la Faja Petrolífera del Orinoco (FPO), asegurando el cumplimiento de las trayectorias planificadas a través de la supervisión de los parámetros de perforación. 
 
-- Supervisé operaciones de perforación a través del control de los parámetros para garantizar la  trayectoria planificada.
+- Coordiné la integración técnica y operativa en tiempo real con los equipos de Well Planning, MWD/LWD, geología y supervisores de pozos durante las fases de perforación, incluyendo construcción de ángulos (Build-Up), aterrizaje en el yacimiento (Landing) y navegación en la sección horizontal. 
 
-- Elaboré informes sobre los avances de la perforación, gestión de herramientas BHA.
+- Utilicé software OpenWells® para el seguimiento y reporte de las operaciones de la perforación direccional. 
 
+- Elaboré informes técnicos para empresas operadoras clientes sobre el avance de perforación, desempeño de herramientas y cumplimiento de objetivos operacionales.
 
-### **Ingeniero de Campo | Práctica Universitaria**                
-#### **PDVSA Petropiar** 
-##### <img src="IMÁGENES/venezuela.png" width="22" height="22"> Anzoátegui
-##### 2011 - 2012
-
-- Elaboré junto al Ing. Efraín Aristimuños, un Manual de Procedimientos para la Perforación de los Pozos Horizontales en el Campo Huyaparí de la División Ayacucho de la FPO. 
-
-- Manual elaborado en la Gerencia de Perforación de PDVSA PETROPIAR (PDVSA - CHEVRON) en el Centro Operativo Bare.
-
-- El manual fungió como Tesis de Grado y Práctica Universitaria ante la Universidad Central de Venezuela (Caracas). Recibiendo obteniendo en su respectiva defensa la más alta calificación y mensión honorífica.
+- Desarrollé el Manual de Perforación de Pozos Horizontales en el Campo Huyaparí de la FPO (PDVSA PETROPIAR), estableciendo directrices para optimizar operaciones, eficiencia y seguridad. El proyecto obtuvo la máxima calificación académica y Mención Honorífica.
 
 [**Manual de Perforación**](http://saber.ucv.ve/handle/10872/2873) 
 
