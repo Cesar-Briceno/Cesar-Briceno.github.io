@@ -34,7 +34,7 @@ body {
 
 - Google Project Management Certificate es un programa de certificación diseñado por Google a través de Coursera para capacitar a profesionales en la gestión de proyectos. 
 
-- Project Management Fundamentals de IBM BuildSkill es un curso diseñado para proporcionar una base sólida en gestión de proyectos, con un enfoque en metodologías modernas y herramientas digitales
+- Project Management Fundamentals de IBM BuildSkill es un curso diseñado para proporcionar una base sólida en gestión de proyectos, con un enfoque en metodologías modernas y herramientas digitales.
 
 
 ### **Especialización en Organización de Empresas**      
